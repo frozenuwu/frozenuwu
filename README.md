@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @frozenuwu
-- 👀 I’m interested in INFOSEC
-- 🌱 I’m currently studying for OSCP
 - 📫 How to reach me ... nezorf@4170
